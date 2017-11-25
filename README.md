@@ -15,3 +15,8 @@ if data == 341
    bin = 0   1   0  1  0 1  0 1 0 1    ==> B0101010101  ################
          _   _   _  _  _ _  _ _ _ _
          0  256  0  64 0 16 0 4 0 1     is mean data = 341 = 256 + 64 + 16 + 4 + 1
+
+
+<br>
+<im height = "700" src = "https://github.com/Waratep/dec_to_bin_convert/blob/master/Untitled.png" />
+<br>
